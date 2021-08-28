@@ -2,9 +2,9 @@
 Simple Browser Based Pose Detections
 
 # Requirements
-Python >= 3.6
-Dependencies: pip install -r requirements.txt
-Javascript
+Python >= 3.6<br>
+Dependencies: pip install -r requirements.txt<br>
+Javascript<br>
 p5.js
 
 # Training
