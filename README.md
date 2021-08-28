@@ -1,4 +1,4 @@
-# pose-detect
+# Pose-detect
 Simple Browser Based Pose Detections
 
 # Requirements
