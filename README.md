@@ -7,7 +7,7 @@ Dependencies: pip install -r requirements.txt<br>
 Javascript<br>
 p5.js
 
-# Training
+# Types of Poses
 Open index.html in editor from training folder, you can see the different poses
 
 # Live Detection
